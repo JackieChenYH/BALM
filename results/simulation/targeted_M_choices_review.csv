@@ -1,0 +1,3 @@
+﻿dataset,true_M,original_choices,repaired_choices,repaired_choice_counts,repaired_best_counts,repaired_MC_uncertain_combinations,combinations
+r028_t2,2,"[2, 3, 4]","[3, 4]","{3: 10, 4: 6}","{5: 4, 4: 12}",16,16
+r045_t2,2,"[2, 3, 4, 5]","[2, 3]","{2: 8, 3: 8}","{5: 12, 4: 4}",16,16

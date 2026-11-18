@@ -1,0 +1,294 @@
+field,category
+MMSE_Score,Alertness
+PSQI_Score,Alertness
+PSQI_Comp1,Alertness
+PSQI_Comp2,Alertness
+PSQI_Comp3,Alertness
+PSQI_Comp4,Alertness
+PSQI_Comp5,Alertness
+PSQI_Comp6,Alertness
+PSQI_Comp7,Alertness
+PSQI_Min2Asleep,Alertness
+PSQI_AmtSleep,Alertness
+PSQI_Latency30Min,Alertness
+PSQI_WakeUp,Alertness
+PSQI_Bathroom,Alertness
+PSQI_Breathe,Alertness
+PSQI_Snore,Alertness
+PSQI_TooCold,Alertness
+PSQI_TooHot,Alertness
+PSQI_BadDream,Alertness
+PSQI_Pain,Alertness
+PSQI_Other,Alertness
+PSQI_Quality,Alertness
+PSQI_SleepMeds,Alertness
+PSQI_DayStayAwake,Alertness
+PSQI_DayEnthusiasm,Alertness
+PicSeq_Unadj,Cognition
+PicSeq_AgeAdj,Cognition
+CardSort_Unadj,Cognition
+CardSort_AgeAdj,Cognition
+Flanker_Unadj,Cognition
+Flanker_AgeAdj,Cognition
+PMAT24_A_CR,Cognition
+PMAT24_A_SI,Cognition
+PMAT24_A_RTCR,Cognition
+ReadEng_Unadj,Cognition
+ReadEng_AgeAdj,Cognition
+PicVocab_Unadj,Cognition
+PicVocab_AgeAdj,Cognition
+ProcSpeed_Unadj,Cognition
+ProcSpeed_AgeAdj,Cognition
+DDisc_SV_1mo_200,Cognition
+DDisc_SV_6mo_200,Cognition
+DDisc_SV_1yr_200,Cognition
+DDisc_SV_3yr_200,Cognition
+DDisc_SV_5yr_200,Cognition
+DDisc_SV_10yr_200,Cognition
+DDisc_SV_1mo_40K,Cognition
+DDisc_SV_6mo_40K,Cognition
+DDisc_SV_1yr_40K,Cognition
+DDisc_SV_3yr_40K,Cognition
+DDisc_SV_5yr_40K,Cognition
+DDisc_SV_10yr_40K,Cognition
+DDisc_AUC_200,Cognition
+DDisc_AUC_40K,Cognition
+VSPLOT_TC,Cognition
+VSPLOT_CRTE,Cognition
+VSPLOT_OFF,Cognition
+SCPT_TP,Cognition
+SCPT_TN,Cognition
+SCPT_FP,Cognition
+SCPT_FN,Cognition
+SCPT_TPRT,Cognition
+SCPT_SEN,Cognition
+SCPT_SPEC,Cognition
+SCPT_LRNR,Cognition
+IWRD_TOT,Cognition
+IWRD_RTC,Cognition
+ListSort_Unadj,Cognition
+ListSort_AgeAdj,Cognition
+CogFluidComp_Unadj,Cognition
+CogFluidComp_AgeAdj,Cognition
+CogEarlyComp_Unadj,Cognition
+CogEarlyComp_AgeAdj,Cognition
+CogTotalComp_Unadj,Cognition
+CogTotalComp_AgeAdj,Cognition
+CogCrystalComp_Unadj,Cognition
+CogCrystalComp_AgeAdj,Cognition
+ER40_CR,Emotion
+ER40_CRT,Emotion
+ER40ANG,Emotion
+ER40FEAR,Emotion
+ER40HAP,Emotion
+ER40NOE,Emotion
+ER40SAD,Emotion
+AngAffect_Unadj,Emotion
+AngHostil_Unadj,Emotion
+AngAggr_Unadj,Emotion
+FearAffect_Unadj,Emotion
+FearSomat_Unadj,Emotion
+Sadness_Unadj,Emotion
+LifeSatisf_Unadj,Emotion
+MeanPurp_Unadj,Emotion
+PosAffect_Unadj,Emotion
+Friendship_Unadj,Emotion
+Loneliness_Unadj,Emotion
+PercHostil_Unadj,Emotion
+PercReject_Unadj,Emotion
+EmotSupp_Unadj,Emotion
+InstruSupp_Unadj,Emotion
+PercStress_Unadj,Emotion
+SelfEff_Unadj,Emotion
+Emotion_Task_Acc,In-Scanner Task Performance
+Emotion_Task_Median_RT,In-Scanner Task Performance
+Emotion_Task_Face_Acc,In-Scanner Task Performance
+Emotion_Task_Face_Median_RT,In-Scanner Task Performance
+Emotion_Task_Shape_Acc,In-Scanner Task Performance
+Emotion_Task_Shape_Median_RT,In-Scanner Task Performance
+Gambling_Task_Perc_Larger,In-Scanner Task Performance
+Gambling_Task_Perc_Smaller,In-Scanner Task Performance
+Gambling_Task_Perc_NLR,In-Scanner Task Performance
+Gambling_Task_Median_RT_Larger,In-Scanner Task Performance
+Gambling_Task_Median_RT_Smaller,In-Scanner Task Performance
+Gambling_Task_Reward_Perc_Larger,In-Scanner Task Performance
+Gambling_Task_Reward_Median_RT_Larger,In-Scanner Task Performance
+Gambling_Task_Reward_Perc_Smaller,In-Scanner Task Performance
+Gambling_Task_Reward_Median_RT_Smaller,In-Scanner Task Performance
+Gambling_Task_Reward_Perc_NLR,In-Scanner Task Performance
+Gambling_Task_Punish_Perc_Larger,In-Scanner Task Performance
+Gambling_Task_Punish_Median_RT_Larger,In-Scanner Task Performance
+Gambling_Task_Punish_Perc_Smaller,In-Scanner Task Performance
+Gambling_Task_Punish_Median_RT_Smaller,In-Scanner Task Performance
+Gambling_Task_Punish_Perc_NLR,In-Scanner Task Performance
+Language_Task_Acc,In-Scanner Task Performance
+Language_Task_Median_RT,In-Scanner Task Performance
+Language_Task_Story_Acc,In-Scanner Task Performance
+Language_Task_Story_Median_RT,In-Scanner Task Performance
+Language_Task_Story_Avg_Difficulty_Level,In-Scanner Task Performance
+Language_Task_Math_Acc,In-Scanner Task Performance
+Language_Task_Math_Median_RT,In-Scanner Task Performance
+Language_Task_Math_Avg_Difficulty_Level,In-Scanner Task Performance
+Relational_Task_Acc,In-Scanner Task Performance
+Relational_Task_Median_RT,In-Scanner Task Performance
+Relational_Task_Match_Acc,In-Scanner Task Performance
+Relational_Task_Match_Median_RT,In-Scanner Task Performance
+Relational_Task_Rel_Acc,In-Scanner Task Performance
+Relational_Task_Rel_Median_RT,In-Scanner Task Performance
+Social_Task_Perc_Random,In-Scanner Task Performance
+Social_Task_Perc_TOM,In-Scanner Task Performance
+Social_Task_Perc_Unsure,In-Scanner Task Performance
+Social_Task_Perc_NLR,In-Scanner Task Performance
+Social_Task_Median_RT_Random,In-Scanner Task Performance
+Social_Task_Median_RT_TOM,In-Scanner Task Performance
+Social_Task_Median_RT_Unsure,In-Scanner Task Performance
+Social_Task_Random_Perc_Random,In-Scanner Task Performance
+Social_Task_Random_Median_RT_Random,In-Scanner Task Performance
+Social_Task_Random_Perc_TOM,In-Scanner Task Performance
+Social_Task_Random_Median_RT_TOM,In-Scanner Task Performance
+Social_Task_Random_Perc_Unsure,In-Scanner Task Performance
+Social_Task_Random_Median_RT_Unsure,In-Scanner Task Performance
+Social_Task_Random_Perc_NLR,In-Scanner Task Performance
+Social_Task_TOM_Perc_Random,In-Scanner Task Performance
+Social_Task_TOM_Median_RT_Random,In-Scanner Task Performance
+Social_Task_TOM_Perc_TOM,In-Scanner Task Performance
+Social_Task_TOM_Median_RT_TOM,In-Scanner Task Performance
+Social_Task_TOM_Perc_Unsure,In-Scanner Task Performance
+Social_Task_TOM_Median_RT_Unsure,In-Scanner Task Performance
+Social_Task_TOM_Perc_NLR,In-Scanner Task Performance
+WM_Task_Acc,In-Scanner Task Performance
+WM_Task_Median_RT,In-Scanner Task Performance
+WM_Task_2bk_Acc,In-Scanner Task Performance
+WM_Task_2bk_Median_RT,In-Scanner Task Performance
+WM_Task_0bk_Acc,In-Scanner Task Performance
+WM_Task_0bk_Median_RT,In-Scanner Task Performance
+WM_Task_0bk_Body_Acc,In-Scanner Task Performance
+WM_Task_0bk_Body_Acc_Target,In-Scanner Task Performance
+WM_Task_0bk_Body_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Face_Acc,In-Scanner Task Performance
+WM_Task_0bk_Face_Acc_Target,In-Scanner Task Performance
+WM_Task_0bk_Face_ACC_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Place_Acc,In-Scanner Task Performance
+WM_Task_0bk_Place_Acc_Target,In-Scanner Task Performance
+WM_Task_0bk_Place_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Tool_Acc,In-Scanner Task Performance
+WM_Task_0bk_Tool_Acc_Target,In-Scanner Task Performance
+WM_Task_0bk_Tool_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Body_Acc,In-Scanner Task Performance
+WM_Task_2bk_Body_Acc_Target,In-Scanner Task Performance
+WM_Task_2bk_Body_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Face_Acc,In-Scanner Task Performance
+WM_Task_2bk_Face_Acc_Target,In-Scanner Task Performance
+WM_Task_2bk_Face_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Place_Acc,In-Scanner Task Performance
+WM_Task_2bk_Place_Acc_Target,In-Scanner Task Performance
+WM_Task_2bk_Place_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Tool_Acc,In-Scanner Task Performance
+WM_Task_2bk_Tool_Acc_Target,In-Scanner Task Performance
+WM_Task_2bk_Tool_Acc_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Body_Median_RT,In-Scanner Task Performance
+WM_Task_0bk_Body_Median_RT_Target,In-Scanner Task Performance
+WM_Task_0bk_Body_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Face_Median_RT,In-Scanner Task Performance
+WM_Task_0bk_Face_Median_RT_Target,In-Scanner Task Performance
+WM_Task_0bk_Face_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Place_Median_RT,In-Scanner Task Performance
+WM_Task_0bk_Place_Median_RT_Target,In-Scanner Task Performance
+WM_Task_0bk_Place_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_0bk_Tool_Median_RT,In-Scanner Task Performance
+WM_Task_0bk_Tool_Median_RT_Target,In-Scanner Task Performance
+WM_Task_0bk_Tool_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Body_Median_RT,In-Scanner Task Performance
+WM_Task_2bk_Body_Median_RT_Target,In-Scanner Task Performance
+WM_Task_2bk_Body_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Face_Median_RT,In-Scanner Task Performance
+WM_Task_2bk_Face_Median_RT_Target,In-Scanner Task Performance
+WM_Task_2bk_Face_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Place_Median_RT,In-Scanner Task Performance
+WM_Task_2bk_Place_Median_RT_Target,In-Scanner Task Performance
+WM_Task_2bk_Place_Median_RT_Nontarget,In-Scanner Task Performance
+WM_Task_2bk_Tool_Median_RT,In-Scanner Task Performance
+WM_Task_2bk_Tool_Median_RT_Target,In-Scanner Task Performance
+WM_Task_2bk_Tool_Median_RT_Nontarget,In-Scanner Task Performance
+Endurance_Unadj,Motor
+Endurance_AgeAdj,Motor
+GaitSpeed_Comp,Motor
+Dexterity_Unadj,Motor
+Dexterity_AgeAdj,Motor
+Strength_Unadj,Motor
+Strength_AgeAdj,Motor
+NEOFAC_A,Personality
+NEOFAC_O,Personality
+NEOFAC_C,Personality
+NEOFAC_N,Personality
+NEOFAC_E,Personality
+NEORAW_01,Personality
+NEORAW_02,Personality
+NEORAW_03,Personality
+NEORAW_04,Personality
+NEORAW_05,Personality
+NEORAW_06,Personality
+NEORAW_07,Personality
+NEORAW_08,Personality
+NEORAW_09,Personality
+NEORAW_10,Personality
+NEORAW_11,Personality
+NEORAW_12,Personality
+NEORAW_13,Personality
+NEORAW_14,Personality
+NEORAW_15,Personality
+NEORAW_16,Personality
+NEORAW_17,Personality
+NEORAW_18,Personality
+NEORAW_19,Personality
+NEORAW_20,Personality
+NEORAW_21,Personality
+NEORAW_22,Personality
+NEORAW_23,Personality
+NEORAW_24,Personality
+NEORAW_25,Personality
+NEORAW_26,Personality
+NEORAW_27,Personality
+NEORAW_28,Personality
+NEORAW_29,Personality
+NEORAW_30,Personality
+NEORAW_31,Personality
+NEORAW_32,Personality
+NEORAW_33,Personality
+NEORAW_34,Personality
+NEORAW_35,Personality
+NEORAW_36,Personality
+NEORAW_37,Personality
+NEORAW_38,Personality
+NEORAW_39,Personality
+NEORAW_40,Personality
+NEORAW_41,Personality
+NEORAW_42,Personality
+NEORAW_43,Personality
+NEORAW_44,Personality
+NEORAW_45,Personality
+NEORAW_46,Personality
+NEORAW_47,Personality
+NEORAW_48,Personality
+NEORAW_49,Personality
+NEORAW_50,Personality
+NEORAW_51,Personality
+NEORAW_52,Personality
+NEORAW_53,Personality
+NEORAW_54,Personality
+NEORAW_55,Personality
+NEORAW_56,Personality
+NEORAW_57,Personality
+NEORAW_58,Personality
+NEORAW_59,Personality
+NEORAW_60,Personality
+Noise_Comp,Sensory
+Odor_Unadj,Sensory
+Odor_AgeAdj,Sensory
+PainIntens_RawScore,Sensory
+PainInterf_Tscore,Sensory
+Taste_Unadj,Sensory
+Taste_AgeAdj,Sensory
+Mars_Log_Score,Sensory
+Mars_Errs,Sensory
+Mars_Final,Sensory

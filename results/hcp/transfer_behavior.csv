@@ -1,0 +1,38 @@
+source,cohort,template,field,label,n,rho,expected_direction,direction_matches_source,bootstrap_lower,bootstrap_upper,p_permutation,source_original_q_BH,p_Holm_within_cohort,p_Holm_source_family,p_Holm_all_23,status,in_main_figure
+F31_35,F22_25,3,Language_Task_Acc,Language task overall accuracy,80,0.0478404424498058,-1,False,-0.1883018146422485,0.2821939043691648,0.67426,,0.8684999999999999,1.0,1.0,transfer_test,False
+F31_35,F22_25,4,Language_Task_Acc,Language task overall accuracy,80,0.1196362829204335,1,True,-0.0955395416684008,0.3224812666066488,0.2895,,0.8684999999999999,1.0,1.0,transfer_test,False
+F31_35,F22_25,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,81,-0.1080623306233062,-1,True,-0.3060337568633131,0.1062873828770994,0.33567,,0.8684999999999999,1.0,1.0,transfer_test,True
+F31_35,F26_30,3,Language_Task_Acc,Language task overall accuracy,245,-0.0629702959010971,-1,True,-0.1850383317506907,0.0610785430204019,0.32976,,0.65952,1.0,1.0,transfer_test,False
+F31_35,F26_30,4,Language_Task_Acc,Language task overall accuracy,245,0.1390963041978278,1,True,0.0160855797227319,0.2581492057115549,0.03054,,0.09162,0.42756,0.67188,transfer_test,False
+F31_35,F26_30,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,247,-0.0397752169681228,-1,True,-0.1609651074627792,0.0834517089169747,0.53338,,0.65952,1.0,1.0,transfer_test,True
+F31_35,F31_35,3,Language_Task_Acc,Language task overall accuracy,228,-0.1499740911315598,-1,True,-0.2748067965252038,-0.0208441101249307,0.02345,0.7285326708074534,,,,source_reference,False
+F31_35,F31_35,4,Language_Task_Acc,Language task overall accuracy,228,0.1823625077818414,1,True,0.0563154753156506,0.3047767930009931,0.00545,0.62409,,,,source_reference,False
+F31_35,F31_35,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,225,-0.1848450928290567,-1,True,-0.313910308340131,-0.0515256656927429,0.00565,0.62409,,,,source_reference,True
+F31_35,M22_25,3,Language_Task_Acc,Language task overall accuracy,142,-0.0756166264400639,-1,True,-0.2415060303282787,0.090748974127493,0.36943,,1.0,1.0,1.0,transfer_test,False
+F31_35,M22_25,4,Language_Task_Acc,Language task overall accuracy,142,0.0572508212938332,1,True,-0.1156541377411026,0.2260915545933696,0.49873,,1.0,1.0,1.0,transfer_test,False
+F31_35,M22_25,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,141,-0.025461387308711,-1,True,-0.1998290035615772,0.1523091581307119,0.76393,,1.0,1.0,1.0,transfer_test,True
+F31_35,M26_30,3,Language_Task_Acc,Language task overall accuracy,209,-0.0164910303251618,-1,True,-0.1516894945602291,0.1197044989794386,0.81295,,1.0,1.0,1.0,transfer_test,False
+F31_35,M26_30,4,Language_Task_Acc,Language task overall accuracy,209,-0.0229023450943914,1,False,-0.1599542452137242,0.1157185444851669,0.74002,,1.0,1.0,1.0,transfer_test,False
+F31_35,M26_30,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,208,-0.1453240292996277,-1,True,-0.2737454592372199,-0.0134584824968893,0.03657,,0.10971,0.47541,0.7679699999999999,transfer_test,True
+F31_35,M31_35,3,Language_Task_Acc,Language task overall accuracy,130,0.1643030510903148,-1,False,-0.012215994374693,0.3326901790971514,0.06184,,0.12368,0.74208,1.0,transfer_test,False
+F31_35,M31_35,4,Language_Task_Acc,Language task overall accuracy,130,-0.2190661782557794,1,False,-0.3977061700081666,-0.033108922067838,0.01203,,0.03609,0.18045,0.27669,transfer_test,False
+F31_35,M31_35,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,127,0.0270408028764912,-1,False,-0.149669430636006,0.2020467770673444,0.76381,,0.76381,1.0,1.0,transfer_test,True
+F31_35,M36plus,3,Language_Task_Acc,Language task overall accuracy,3,-0.5,-1,True,,,,,,,,descriptive_only,False
+F31_35,M36plus,4,Language_Task_Acc,Language task overall accuracy,3,1.0,1,True,,,,,,,,descriptive_only,False
+F31_35,M36plus,4,WM_Task_0bk_Face_Median_RT_Target,0-back face-target reaction time,3,-0.5,-1,True,,,,,,,,descriptive_only,True
+M22_25,M22_25,1,DDisc_SV_3yr_200,Subjective value of $200 delayed three years,143,-0.2668998590673502,-1,True,-0.404117584283428,-0.116772736793326,0.0014,0.443016,,,,source_reference,False
+M22_25,M22_25,2,Language_Task_Story_Avg_Difficulty_Level,Story comprehension difficulty,142,0.2604079830657144,1,True,0.1105774597915309,0.399898969259234,0.00189,0.443016,,,,source_reference,True
+M22_25,M22_25,3,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,141,0.268792496184407,1,True,0.1117931937510387,0.4099446507704826,0.00138,0.443016,,,,source_reference,True
+M22_25,M22_25,4,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,141,-0.2932587288250843,-1,True,-0.4418696460615033,-0.1324207187377894,0.00041,0.443016,,,,source_reference,False
+M22_25,M26_30,1,DDisc_SV_3yr_200,Subjective value of $200 delayed three years,213,-0.087274940897588,-1,True,-0.2236406145354507,0.0513302142819067,0.20497,,0.6149100000000001,1.0,1.0,transfer_test,False
+M22_25,M26_30,2,Language_Task_Story_Avg_Difficulty_Level,Story comprehension difficulty,209,-0.043004244022863,1,False,-0.1785776922752487,0.0947147588699788,0.53543,,1.0,1.0,1.0,transfer_test,True
+M22_25,M26_30,3,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,207,-0.0120818576296982,1,False,-0.1530493152222486,0.1300189417704827,0.86223,,1.0,1.0,1.0,transfer_test,True
+M22_25,M26_30,4,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,207,-0.1047739234828067,-1,True,-0.2397539320193807,0.0333594002388145,0.13364,,0.53456,1.0,1.0,transfer_test,False
+M22_25,M31_35,1,DDisc_SV_3yr_200,Subjective value of $200 delayed three years,131,-0.0376531809727063,-1,True,-0.2138984403082046,0.1401928804914725,0.67304,,1.0,1.0,1.0,transfer_test,False
+M22_25,M31_35,2,Language_Task_Story_Avg_Difficulty_Level,Story comprehension difficulty,130,0.0908497373701274,1,True,-0.0770812991970566,0.2581014436517256,0.30609,,1.0,1.0,1.0,transfer_test,True
+M22_25,M31_35,3,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,129,0.0602334538999455,1,True,-0.1222805728403471,0.2352023166042029,0.49939,,1.0,1.0,1.0,transfer_test,True
+M22_25,M31_35,4,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,129,0.0319266096081107,-1,False,-0.1424450250925428,0.2058697879804384,0.71995,,1.0,1.0,1.0,transfer_test,False
+M22_25,M36plus,1,DDisc_SV_3yr_200,Subjective value of $200 delayed three years,3,-1.0,-1,True,,,,,,,,descriptive_only,False
+M22_25,M36plus,2,Language_Task_Story_Avg_Difficulty_Level,Story comprehension difficulty,3,0.5,1,True,,,,,,,,descriptive_only,True
+M22_25,M36plus,3,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,3,0.5,1,True,,,,,,,,descriptive_only,True
+M22_25,M36plus,4,Emotion_Task_Shape_Median_RT,Shape-matching reaction time,3,1.0,-1,False,,,,,,,,descriptive_only,False

@@ -1,0 +1,15 @@
+{
+  "independent_datasets": 5,
+  "individual_network_scores": 500,
+  "per_dataset_twofold_mean": [
+    -141.6033946893077,
+    -140.8119446738648,
+    -140.01160507003607,
+    -142.74888479582654,
+    -140.3906129963339
+  ],
+  "grand_mean_joint_logscore": -141.1132884450738,
+  "between_dataset_se": 0.4869370434011529,
+  "conservative_aggregate_mcse_bound": 0.012929007805833115,
+  "source": "Manuscript five-dataset whole-network study, balanced auxiliary integration"
+}

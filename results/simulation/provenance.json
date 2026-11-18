@@ -1,0 +1,58 @@
+{
+  "manuscript": "main_1110 / supplement_1110",
+  "description": "Existing numerical summaries used by the manuscript; no experiments rerun for this export.",
+  "files": {
+    "normal_methods.csv": {
+      "source": "manuscripts/simulation_visualization/data/normal_methods.csv",
+      "sha256": "1b8f4b187913f28bd3ea4ab3857e150f3bd9c201a4df01f37608f40440a2f37f"
+    },
+    "normal_balm.csv": {
+      "source": "manuscripts/simulation_visualization/data/normal_balm.csv",
+      "sha256": "cde7e3df1034180911a763974ec6dc763ff8889afa617447e73402e2cb20672f"
+    },
+    "group_summary.csv": {
+      "source": "manuscripts/simulation_visualization/data/group_summary.csv",
+      "sha256": "9a999c6753e4f7fd2ae7a8b21a72532358b1f8dfd82d0c4e9f5a217d60398a37"
+    },
+    "template_selection.csv": {
+      "source": "manuscripts/simulation_visualization/data/template_selection.csv",
+      "sha256": "6af6e78ff7c8dd26ffc5946d5f585bb3bd2cb19d3024ef98bf36b5b738c3108a"
+    },
+    "selection_by_dataset.csv": {
+      "source": "manuscripts/simulation_visualization/data/selection_by_dataset.csv",
+      "sha256": "7ad8b323f0c414e3d10830f7ad4bda7b12ca4a126a19d2437beb4c211c6380eb"
+    },
+    "coupling_calibration.csv": {
+      "source": "manuscripts/simulation_visualization/data/coupling_calibration.csv",
+      "sha256": "8a1bf640442803dcd76d3e128bc991396f2ac8bbcf0cd4e46a17f8b62ef52510"
+    },
+    "coupling_paired_summary.csv": {
+      "source": "manuscripts/simulation_visualization/data/coupling_paired_summary.csv",
+      "sha256": "4c884ea17f3dd40263ab11a2496fbd05f47c2338c1844562b83c3f80cd9ffe8e"
+    },
+    "paired_comparisons.csv": {
+      "source": "manuscripts/simulation_visualization/data/paired_comparisons.csv",
+      "sha256": "81e3fddcfb5c98c671155883325701bae2157dfe012189827b9b08f98e96ba54"
+    },
+    "targeted_M_choices_review.csv": {
+      "source": "manuscripts/simulation_visualization/data/targeted_M_choices_review.csv",
+      "sha256": "fc067944f5879e4540b369fa9309d9e0a838d216004080933c290b816f088ec7"
+    },
+    "targeted_M_repair_review.csv": {
+      "source": "manuscripts/simulation_visualization/data/targeted_M_repair_review.csv",
+      "sha256": "606100b8f5729d108b1f435083b438d065edfd51db5e333214466a13e5374962"
+    },
+    "targeted_null_repair_review.csv": {
+      "source": "manuscripts/simulation_visualization/data/targeted_null_repair_review.csv",
+      "sha256": "a48ba3ed19dc7ea262655c0cfb7e963462ddd0ae98114c0f05ac70855c283717"
+    },
+    "normal_rep000.npz": {
+      "source": "manuscripts/simulation_visualization/data/normal_rep000.npz",
+      "sha256": "963383a4eb0e883159f9c80c36161acd8b15d3c2664bd750d47097b7caf2ce9f"
+    },
+    "block_rep000_1110.npz": {
+      "source": "manuscripts/simulation_visualization/data/block_rep000_1110.npz",
+      "sha256": "7938ccd83ada0c7cc06104241c898b933a267092a7d11a4f42613e8bcd76bb85"
+    }
+  }
+}
