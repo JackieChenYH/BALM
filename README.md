@@ -3,7 +3,7 @@
 Bayesian Adaptive Latent Mixture models for populations of aligned, zero-inflated weighted networks.
 
 BALM represents each network using simplex memberships over shared low-rank, signed templates. A hurdle likelihood models edge presence and the continuous score of a present edge. This repository contains the model, ALMA and tensor block model comparisons, the eight simulation experiments, and the HCP cohort and transfer analyses accompanying **Bayesian Hurdle Template Mixtures for Zero-Inflated Weighted Network Populations**, by Hsin-Hsiung Huang, Yuh-Haur Chen and Teng Zhang.
-
+email: yuhhaur.chen@ucf.edu
 ## Start with the notebook
 
 Use **Python 3.11** and run commands from this directory. The CPU dependencies are pinned in `requirements.txt`.
